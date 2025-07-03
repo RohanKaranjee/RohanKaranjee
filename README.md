@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/RohanKaranjee/RohanKaranjee/assets/your-banner" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#00ADB5">Rohan Karanjee</span>
