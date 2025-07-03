@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#00ADB5">Rohan Karanjee</span>
+  Hi there 👋, I'm Rohan Karanjee
 </h1>
 
 <p align="center">
@@ -25,9 +25,14 @@
 ### 🧑‍💻 Languages, Tools & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,vite" />
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp,jenkins,ansible" />
 </p>
 
@@ -68,7 +73,7 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/RohanKaranjee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
