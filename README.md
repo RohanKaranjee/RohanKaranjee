@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6366F1&height=200&section=header&text=ROHAN%20KARANJE&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20DevOps%20Engineer%20•%20System%20Design&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6366F1&height=200&section=header&text=ROHAN%20KARANJE&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20DevOps%20Engineer&descAlignY=55"/>
 
 <img src="https://komarev.com/ghpvc/?username=RohanKaranjee&style=for-the-badge&color=6366F1" />
 <img src="https://img.shields.io/github/followers/RohanKaranjee?style=for-the-badge&color=6366F1" />
@@ -10,50 +10,25 @@
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## ⚡ ENGINEER WHO SHIPS PRODUCTION SYSTEMS
+Full Stack Engineer with hands-on experience building and deploying production applications.
 
-</div>
+Currently working as **Founding Engineer at Duty Karo (Live Startup)** where I:
 
-🚀 **Founding Engineer @ Duty Karo (Live Startup)**  
-Built and deployed a complete B2B2C workforce management SaaS — solo.
+- Built a B2B2C workforce management SaaS platform
+- Developed 35+ MongoDB models and 41 REST APIs
+- Implemented QR-based attendance and payroll workflows
+- Integrated PhonePe payment gateway for billing and payouts
+- Built real-time features using Socket.io
+- Deployed on AWS (EC2, S3) with Docker and Nginx
+- Implemented Redis caching, JWT authentication, and rate limiting
 
-### 🏗 What I’ve Built in Production
-
-- 3 Role-Based Dashboards (Agency • Worker • Admin)
-- 35+ MongoDB Data Models
-- 41 RESTful APIs
-- QR-based Geofenced Attendance System
-- Real-time Notifications (Socket.io)
-- Automated Payroll + Commission Engine
-- PhonePe Payment Gateway Integration
-- PDF Invoice Generation
-- 5 Production Cron Jobs (reminders, expiry, verifications)
-
-### ☁️ Production Infrastructure
-
-- AWS (EC2, S3)
-- Dockerized Microservices
-- Nginx Reverse Proxy
-- Redis Caching
-- JWT Auth + Rate Limiting
-- CI/CD Pipelines
-- PWA with Offline Support
+B.E Computer Science Graduate (2025)
 
 ---
 
-## 🧠 ENGINEERING PHILOSOPHY
-
-- Design before coding
-- Build for scale from Day 1
-- Clean architecture > quick hacks
-- Automate everything possible
-- Ship fast. Refactor smart.
-
----
-
-## 📊 GITHUB PERFORMANCE
+## 📊 GitHub Activity (Live Data)
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RohanKaranjee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
@@ -66,22 +41,22 @@ Built and deployed a complete B2B2C workforce management SaaS — solo.
 
 ---
 
-## 🛠 TECH STACK (Production Ready)
+## 🛠 Technical Skills
 
 ### Languages
-JavaScript • TypeScript • Python • Java • SQL
+JavaScript (ES6+), TypeScript, Python, Java, SQL
 
 ### Frontend
-React.js • Next.js • Tailwind • Zustand • TanStack Query • Framer Motion
+React.js, Next.js, Tailwind CSS, Zustand, TanStack Query, Framer Motion
 
 ### Backend
-Node.js • Express.js • Django • REST APIs • Redis • Socket.io
+Node.js, Express.js, Django, REST APIs, Socket.io, Redis, JWT Authentication
 
 ### Databases
-MongoDB • MySQL
+MongoDB, MySQL
 
-### DevOps & Cloud
-AWS • Docker • Kubernetes • Nginx • Ansible • Jenkins • GitHub Actions • CI/CD
+### Cloud & DevOps
+AWS (EC2, S3), Docker, Kubernetes (learning), Nginx, Ansible, Jenkins, GitHub Actions, CI/CD
 
 ---
 
@@ -103,18 +78,18 @@ AWS • Docker • Kubernetes • Nginx • Ansible • Jenkins • GitHub Actio
 
 ## 🎯 Currently
 
-- Deep diving into Kubernetes & Distributed Systems  
-- Preparing for SDE Roles (Product Companies)  
-- Designing scalable microservice architectures  
+- Improving Kubernetes and microservices knowledge
+- Strengthening system design fundamentals
+- Preparing for Full Stack / SDE roles
 
 ---
 
 <div align="center">
 
-### 🚀 Open to Full Stack / DevOps / SDE Roles
+### 📩 Contact
 
 <a href="mailto:rohankaranje30@gmail.com">
-<img src="https://img.shields.io/badge/Contact_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
