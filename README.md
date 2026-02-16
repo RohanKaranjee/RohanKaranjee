@@ -12,19 +12,17 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Engineer with hands-on experience building and deploying production applications.
+🚀 Founding Engineer at **Duty Karo (Live Startup)**  
 
-Currently working as **Founding Engineer at Duty Karo (Live Startup)** where I:
+- Built a B2B2C workforce management SaaS platform  
+- Designed 35+ MongoDB models & 41 REST APIs  
+- Implemented QR-based attendance & payroll workflows  
+- Integrated PhonePe payment gateway  
+- Built real-time features using Socket.io  
+- Deployed on AWS (EC2, S3) with Docker & Nginx  
+- Used Redis caching, JWT auth & rate limiting  
 
-- Built a B2B2C workforce management SaaS platform
-- Developed 35+ MongoDB models and 41 REST APIs
-- Implemented QR-based attendance and payroll workflows
-- Integrated PhonePe payment gateway for billing and payouts
-- Built real-time features using Socket.io
-- Deployed on AWS (EC2, S3) with Docker and Nginx
-- Implemented Redis caching, JWT authentication, and rate limiting
-
-B.E Computer Science Graduate (2025)
+🎓 B.E Computer Science Graduate (2025)
 
 ---
 
@@ -41,22 +39,26 @@ B.E Computer Science Graduate (2025)
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Tech Stack
 
-### Languages
-JavaScript (ES6+), TypeScript, Python, Java, SQL
+<div align="center">
 
-### Frontend
-React.js, Next.js, Tailwind CSS, Zustand, TanStack Query, Framer Motion
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,sql&theme=dark" />
 
-### Backend
-Node.js, Express.js, Django, REST APIs, Socket.io, Redis, JWT Authentication
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
-### Databases
-MongoDB, MySQL
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,redis&theme=dark" />
 
-### Cloud & DevOps
-AWS (EC2, S3), Docker, Kubernetes (learning), Nginx, Ansible, Jenkins, GitHub Actions, CI/CD
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,ansible,jenkins,githubactions&theme=dark" />
+
+</div>
 
 ---
 
@@ -78,15 +80,15 @@ AWS (EC2, S3), Docker, Kubernetes (learning), Nginx, Ansible, Jenkins, GitHub Ac
 
 ## 🎯 Currently
 
-- Improving Kubernetes and microservices knowledge
-- Strengthening system design fundamentals
-- Preparing for Full Stack / SDE roles
+- Learning Kubernetes & Microservices  
+- Strengthening System Design  
+- Preparing for Full Stack / SDE Roles  
 
 ---
 
 <div align="center">
 
-### 📩 Contact
+### 🚀 Open to Full Stack / DevOps / SDE Opportunities
 
 <a href="mailto:rohankaranje30@gmail.com">
 <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
