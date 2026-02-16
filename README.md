@@ -1,163 +1,137 @@
 <div align="center">
+  
+<!-- Custom DevOps Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ROHAN%20KARANJE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20|%20DevOps%20Engineer%20|%20System%20Design%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-# 👨‍💻 Rohan Karanjee
-
-### Full Stack Developer | DevOps Engineer | System Design Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;DevOps+%7C+Cloud+%7C+Microservices;Open+to+SDE+opportunities+🚀" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<img src="https://komarev.com/ghpvc/?username=RohanKaranjee&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
+<a href="https://github.com/RohanKaranjee"><img src="https://img.shields.io/github/followers/RohanKaranjee?style=for-the-badge&color=6366F1&labelColor=1a1a1a" /></a>
+<a href="https://github.com/RohanKaranjee"><img src="https://img.shields.io/github/stars/RohanKaranjee?style=for-the-badge&color=6366F1&labelColor=1a1a1a" /></a>
 
 </div>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Full-Stack+Applications;DevOps+%7C+Cloud+%7C+Microservices;AWS+%7C+Docker+%7C+Kubernetes;Open+to+SDE+Opportunities+🚀" />
+  </a>
+</div>
 
-## 🎯 About Me
+<div align="center">
+  <a href="mailto:rohankaranje30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-```typescript
-const rohan = {
-    education: "Computer Science Graduate 2025",
-    role: "Full Stack Developer",
-    focus: ["System Design", "Scalable Architecture", "DevOps"],
-    currentlyLearning: ["Kubernetes", "Microservices", "Cloud Native"],
-    lookingFor: "SDE Fresher Roles",
-    motto: "Build it. Ship it. Scale it. 🚀"
-};
-```
+<br/>
 
-<details>
-<summary>📊 More about my journey</summary>
-<br>
-
-- 🔭 Currently working on full-stack projects with Next.js & microservices
-- 🌱 Deep diving into Kubernetes, distributed systems & cloud architecture
-- 💡 Strong foundation in DSA, solving 500+ problems
-- 🎯 Building production-ready applications with CI/CD pipelines
-- ⚡ Fun fact: I debug in my sleep 😴
-
-</details>
-
----
-
-## 🛠️ Tech Arsenal
+<div align="center">
+  <h2><b>👨‍💻 ABOUT ME</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
+</div>
 
 <div align="center">
 
-### 💻 Core Technologies
+🚀 **Founding Engineer at Duty Karo (Live Startup)**  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🏗️ Built entire B2B2C workforce SaaS solo (3 role dashboards)
+
+⚙️ Designed 35+ MongoDB models & 41 REST APIs powering hiring lifecycle  
+
+💳 Integrated PhonePe payments, automated payouts & invoice generation  
+
+🔔 Real-time architecture with Socket.io, Redis caching & cron automation  
+
+☁️ Deployed on AWS (EC2, S3) with Docker, Nginx, JWT Auth & Rate Limiting  
+
+🎯 Strong in System Design, Microservices & Production Architecture  
+
+📚 B.E CSE Graduate (2025) | CGPA: 7.5  
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h2><b>📊 GITHUB STATS</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohanKaranjee&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.vercel.app/?user=RohanKaranjee&theme=radical&hide_border=true&border_radius=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKaranjee&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&border_radius=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2><b>📈 CONTRIBUTION GRAPH</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanKaranjee&bg_color=0d1117&color=ffffff&line=6366F1&point=6366F1&area=true&area_color=6366F1&hide_border=true&custom_title=Rohan%20Karanje%20Contribution%20Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2><b>📌 FEATURED PROJECTS</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
+</div>
+
+<div align="center">
+
+<a href="https://github.com/RohanKaranjee/your-project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKaranjee&repo=your-project-1&theme=radical&hide_border=true&border_radius=10" width="45%" />
+</a>
+
+<a href="https://github.com/RohanKaranjee/your-project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanKaranjee&repo=your-project-2&theme=radical&hide_border=true&border_radius=10" width="45%" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h2><b>💻 SKILLS & TECHNOLOGIES</b></h2>
+  <hr style="width:50%; border-top: 2px solid grey;" />
+</div>
+
+<div align="center">
+
+### 🔧 Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,sql&theme=dark&perline=9" />
 
 ### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=9" />
 
 ### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,redis&theme=dark&perline=9" />
 
 ### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=9" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,ansible,jenkins,githubactions&theme=dark&perline=9" />
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanKaranjee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanKaranjee&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKaranjee&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=RohanKaranjee&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=RohanKaranjee&custom_title=Rohan's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RohanKaranjee&repo=your-project-1&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/RohanKaranjee/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RohanKaranjee&repo=your-project-2&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/RohanKaranjee/your-project-2)
-
-</div>
-
----
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Coding Vibes
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=RohanKaranjee&color=6366f1&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/RohanKaranjee?label=Followers&style=for-the-badge&color=6366f1)
-![Stars](https://img.shields.io/github/stars/RohanKaranjee?style=for-the-badge&color=6366f1)
-
-**⭐ If you find my work interesting, drop a star on my repos!**
-
+  <h3>🤝 Let's Build Something Scalable!</h3>
+  <p>Open to SDE / Full Stack / DevOps roles 🚀</p>
 </div>
